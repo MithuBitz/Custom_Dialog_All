@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="content_detail">Custom Dialog content Details, which you can set as per your requirement</string>
+</resources>
